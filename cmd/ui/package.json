@@ -28,7 +28,7 @@
         "@fortawesome/react-fontawesome": "^0.2.0",
         "@mui/lab": "^5.0.0-alpha.136",
         "@mui/material": "^5.10.8",
-        "@mui/styles": "^5.14.0",
+        "@mui/styles": "^6.4.8",
         "@mui/x-date-pickers": "^5.0.20",
         "@neo4j-cypher/editor-support": "^1.0.1",
         "@neo4j-cypher/react-codemirror": "^1.0.3",
