@@ -45,7 +45,7 @@
         "js-client-library": "workspace:*",
         "js-cookie": "^3.0.1",
         "js-file-download": "^0.4.12",
-        "lodash": "^4.17.21",
+        "lodash": "^4.17.23",
         "luxon": "^2.0.2",
         "memoize-one": "^6.0.0",
         "notistack": "^2.0.5",
